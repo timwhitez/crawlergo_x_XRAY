@@ -6,6 +6,12 @@ https://github.com/0Kee-Team/crawlergo
 
 https://github.com/chaitin/xray
 
+## 12/31更新
+
+爬虫和请求异步进行,不阻塞任务
+
+数字显示url请求队列长度
+
 ## Usage: 
 
 1. 下载xray最新的release, 下载crawlergo最新的release
