@@ -43,7 +43,7 @@ def request0(req):
 
 def main(data1):
 	target = data1
-	cmd = ["./crawlergo", "-c", "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe","-t", "10","--custom-headers","{\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36\", \"Accept-Language\": \"zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7\"}","-f","smart","--fuzz-path","--robots-path", "--output-mode", "json", target]
+	cmd = ["./crawlergo", "-c", "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe","-t", "20","-f","smart","--fuzz-path", "--output-mode", "json", target]
 	rsp = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 	output, error = rsp.communicate()
 	result = simplejson.loads(output.decode().split("--[Mission Complete]--")[1])
