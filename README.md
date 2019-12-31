@@ -8,7 +8,7 @@ crawlergo动态爬虫结合XRAY被动扫描器(其它被动扫描器同理)
 
 2. 把launcher.py和targets.txt放在crawlergo.exe同目录下
 
-3. 配置好并启动xray被动扫描(脚本默认配置为127.0.0.1:7777)若需要修改端口请修改launcher.py文件中的proxies
+3. 配置好并启动xray被动扫描(脚本默认配置为127.0.0.1:7777)若修改端口请同时修改launcher.py文件中的proxies
 
 ![image](https://raw.githubusercontent.com/timwhitez/crawlergo_x_XRAY/master/img/0.png)
 
