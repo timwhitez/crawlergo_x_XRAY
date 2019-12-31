@@ -53,6 +53,4 @@ https://github.com/chaitin/xray
 
 #### 7. 生成的sub_domains.txt为爬虫爬到的子域名, crawl_result.txt为爬虫爬到的url
 
-具体源码如下:
 
-https://github.com/timwhitez/crawlergo_x_XRAY
