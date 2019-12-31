@@ -18,7 +18,7 @@ crawlergo结合被动扫描器的脚本
 
 ./crawlergo -c C:\Program Files (x86)\Google\Chrome\Application\chrome.exe -t 20 -f smart --fuzz-path --output-mode json target
 
-![image](https://raw.githubusercontent.com/timwhitez/crawlergo_x_XRAY/master/img/2.png)
+![image](https://raw.githubusercontent.com/timwhitez/crawlergo_x_XRAY/master/img/4.png)
 
 配置参数详见crawlergo官方文档
 
