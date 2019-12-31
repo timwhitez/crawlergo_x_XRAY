@@ -1,6 +1,6 @@
 # crawlergo_x_XRAY
 
-crawlergo动态爬虫结合XRAY被动扫描器(其它被动扫描器同理)
+360 0Kee-Team 公开的 crawlergo动态爬虫 结合 长亭XRAY扫描器的被动扫描功能 (其它被动扫描器同理)
 
 ## Usage: 
 
