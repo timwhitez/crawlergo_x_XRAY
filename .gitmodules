@@ -1,0 +1,6 @@
+[submodule "crawlergo"]
+	path = crawlergo
+	url = https://github.com/0Kee-Team/crawlergo.git
+[submodule "xray"]
+	path = xray
+	url = https://github.com/chaitin/xray.git
