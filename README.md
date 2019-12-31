@@ -2,6 +2,10 @@
 
 360 0Kee-Team 公开的 crawlergo动态爬虫 结合 长亭XRAY扫描器的被动扫描功能 (其它被动扫描器同理)
 
+https://github.com/0Kee-Team/crawlergo
+
+https://github.com/chaitin/xray/tree/280f02d757c5682870450171f14cbade9d188687
+
 ## Usage: 
 
 1. 下载xray最新的release, 下载crawlergo最新的release
