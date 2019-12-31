@@ -4,7 +4,7 @@
 
 https://github.com/0Kee-Team/crawlergo
 
-https://github.com/chaitin/xray/tree/280f02d757c5682870450171f14cbade9d188687
+https://github.com/chaitin/xray
 
 ## Usage: 
 
