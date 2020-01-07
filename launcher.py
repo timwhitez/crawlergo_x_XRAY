@@ -50,7 +50,7 @@ def request0():
 				a = requests.post(urls0, headers=headers0,data=data0, proxies=proxies,timeout=30,verify=False)
 				opt2File(urls0)
 		except:
-			return
+			continue
 	return
 
 def main(data1):
