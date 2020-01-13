@@ -58,7 +58,10 @@ def main(data1):
 	cmd = ["./crawlergo", "-c", "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe","-t", "20","-f","smart","--fuzz-path", "--output-mode", "json", target]
 	rsp = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 	output, error = rsp.communicate()
-	result = simplejson.loads(output.decode().split("--[Mission Complete]--")[1])
+	try:
+		result = simplejson.loads(output.decode().split("--[Mission Complete]--")[1])
+	except:
+		return
 	req_list = result["req_list"]
 	sub_domain = result["sub_domain_list"]
 	print(data1)
