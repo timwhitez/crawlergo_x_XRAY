@@ -6,6 +6,8 @@ https://github.com/0Kee-Team/crawlergo
 
 https://github.com/chaitin/xray
 
+## 20190113更新，增加容错，解决访问不了的网站爬虫卡死。
+
 ## 介绍
 
 一直想找一个小巧强大的爬虫配合xray的被动扫描使用,曾经有过自己写爬虫的想法,奈何自己太菜写一半感觉还没有awvs的爬虫好用
