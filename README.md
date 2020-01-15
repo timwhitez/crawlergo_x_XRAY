@@ -6,6 +6,8 @@ https://github.com/0Kee-Team/crawlergo
 
 https://github.com/chaitin/xray
 
+## 20190115更新，launcher_new.py使用crawlergo提供的方法推送请求给xray
+
 ## 20190113更新，增加容错，解决访问不了的网站爬虫卡死。
 
 ## 介绍
