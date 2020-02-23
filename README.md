@@ -8,6 +8,8 @@ https://github.com/chaitin/xray
 
 ## 20190115更新，launcher_new.py使用crawlergo提供的方法推送请求给xray
 
+crawlergo默认推送方法有个不足就是无法与爬虫过程异步进行。使用launcher.py可以异步节省时间。
+
 注：若运行出现权限不足，请删除crawlergo空文件夹。
 
 ## 20190113更新，增加容错，解决访问不了的网站爬虫卡死。
