@@ -12,6 +12,8 @@ crawlergo默认推送方法有个不足就是无法与爬虫过程异步进行�
 
 注：若运行出现权限不足，请删除crawlergo空文件夹。
 
+## 如遇到报错注意将64位的crawlergo.exe和launcher.py还有targets.txt放在一个目录，将crawlergo目录删除
+
 ## 20190113更新，增加容错，解决访问不了的网站爬虫卡死。
 
 ## 介绍
