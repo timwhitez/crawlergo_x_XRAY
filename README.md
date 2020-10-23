@@ -63,4 +63,5 @@ crawlergo默认推送方法有个不足就是无法与爬虫过程异步进行�
 
 #### 7. 生成的sub_domains.txt为爬虫爬到的子域名, crawl_result.txt为爬虫爬到的url
 
-
+## 🚀Star Trend
+[![Stargazers over time](https://starchart.cc/timwhitez/crawlergo_x_XRAY.svg)](https://starchart.cc/timwhitez/crawlergo_x_XRAY)
