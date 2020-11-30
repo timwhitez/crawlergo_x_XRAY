@@ -7,7 +7,7 @@ https://github.com/0Kee-Team/crawlergo
 https://github.com/chaitin/xray
 
 ## 20201130更新，launcher_new.py增加随机http请求头，避免被扫描器识别。
-注：需在pip安装库 
+注：需在pip安装 fake_useragent 库
 ` pip install fake_useragent`
 
 ## 20190115更新，launcher_new.py使用crawlergo提供的方法推送请求给xray
