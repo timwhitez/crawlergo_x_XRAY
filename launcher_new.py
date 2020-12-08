@@ -47,8 +47,11 @@ def main(data1):
 	sub_domain = result["sub_domain_list"]
 	print(data1)
 	print("[crawl ok]")
-	for subd in sub_domain:
-		opt2File2(subd)
+	try:
+		for subd in sub_domain:
+			opt2File2(subd)
+	except:
+		pass
 	print("[scanning]")
 
 
