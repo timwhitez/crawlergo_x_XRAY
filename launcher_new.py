@@ -8,7 +8,7 @@ import warnings
 import json
 from fake_useragent import UserAgent
 
-ua = UserAgent()
+ua = UserAgent(use_cache_server=False)
 
 warnings.filterwarnings(action='ignore')
 
